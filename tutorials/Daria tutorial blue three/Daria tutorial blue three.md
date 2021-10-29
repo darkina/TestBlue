@@ -2,7 +2,7 @@
 title: Daria tutorial blue three
 description: Add an existing Web Dynpro ABAP backend app to your freestyle Portal site.
 auto_validation: true
-primary_tag: products>sap-cloud-platform--abap-environment
+primary_tag: products>sap-hana--express-edition
 tags: [ tutorial>beginner, topic>cloud, products>sap-cloud-platform-portal ]
 author_name: Lindsay Bert
 author_profile: https://github.com/LindsayBert
