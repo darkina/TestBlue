@@ -1,7 +1,7 @@
 ---
 title: FOLDER
 description: Daria tutorial blue five
-tags: [tutorial:product>sap-hana, tutorial>beginner]
+tags: [product>sap-hana, tutorial>beginner]
 primary_tag: products>sap-business-application-studio
 author_name: AEM
 author_profile: https://github.com/adadouche
