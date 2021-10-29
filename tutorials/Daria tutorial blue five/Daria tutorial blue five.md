@@ -1,7 +1,7 @@
 ---
 title: FOLDER
 description: Daria tutorial blue five
-tags: [products>sap-cloud-platform--abap-environment, tutorial>beginner]
+tags: [software-product-function>sap-cloud-application-programming-model, tutorial>beginner]
 primary_tag: topic>abap-development
 author_name: AEM
 author_profile: https://github.com/adadouche
