@@ -1,7 +1,7 @@
 ---
 title: Daria tutorial blue seven
 description: ADMINTOOL final
-tags: [tutorial>advanced, tutorial:product/sapHana]
+tags: [tutorial>advanced, tutorial:product>sap-hana]
 primary_tag: products>sap-btp--cloud-foundry-environment
 time: 33 min
 ---
