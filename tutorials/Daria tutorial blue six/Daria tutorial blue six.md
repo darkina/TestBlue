@@ -3,7 +3,7 @@ title: Daria tutorial blue six
 description: Default avatar in the first commit.
 auto_validation: true
 primary_tag: products>sap-business-application-studio
-tags: [ tutorial>beginner, topic>cloud, products>sap-cloud-platform-portal ]
+tags: [ tutorial>beginner, topic>cloud, products>sap-hana]
 author_name: Lindsay Bert
 author_profile: https://github.com/LindsayBert
 time: 10
