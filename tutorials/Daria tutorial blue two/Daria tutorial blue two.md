@@ -1,7 +1,7 @@
 ---
 title: Daria tutorial blue two
 description: 2 new types of rules 2007_1
-tags: [tutorial:product>sap-hana, tutorial>beginner]
+tags: [product>sap-hana, tutorial>beginner]
 primary_tag: products>sap-btp--abap-environment
 author_name: AEM
 author_profile: https://github.com/adadouche
