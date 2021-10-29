@@ -1,7 +1,7 @@
 ---
 title: Daria tutorial blue four
 description: Links, tips, tricks and more for getting started with the SAP HANA, express edition
-primary_tag: products>abap-development
+primary_tag: topic>abap-development
 tags: [  tutorial>how-to, tutorial>beginner, tutorial>intermediate, products>sap-hana, products>sap-hana\,-express-edition  ]
 time: 66
 
