@@ -1,7 +1,7 @@
 ---
 title: Daria tutorial blue nine
 description: example
-tags: [products>sap-hana, topic>api, tutorial>beginner]
+tags: [topic>abap-development, topic>api, tutorial>beginner]
 primary_tag: products>sap-cloud-sdk
 ---
 ### Time to Complete
