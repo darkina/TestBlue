@@ -279,5 +279,5 @@ New staff
 
 ![Click preview icon](13-click-preview.png)
 
-[VALIDATE_1]
+[DONE]
 [ACCORDION-END]
