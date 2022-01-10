@@ -1,7 +1,7 @@
 ---
 title: Daria tutorial blue eight
 description: example
-tags: [topic>abap-development, topic>api, tutorial>beginner]
+tags: [topic>abap-development, topic>api, tutorial>beginner, tutorial>license]
 primary_tag: products>sap-conversational-ai
 ---
 ### Time to Complete
